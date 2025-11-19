@@ -1,13 +1,11 @@
 <h1 align="center">✨ Wesley Ajavon ✨</h1>
 <p align="center">
-  Belgian student currently living in the US. 🇧🇪🇺🇸
-
-Full-stack Web Development passionate.💻
+  Belgian student currently living in the US. 🇧🇪🇺🇸 Full-stack Web Development passionate.💻
 </p>
 
 <h2 align="center">Fun Fact</h2>
 <p align="center">
-  I speak 3 languages
+  Let's have a chat? On peut continuer en français.. O Continuaremos en español si lo prefieres. ✌🏾
 </p>
 
 <h2 align="center">🚀 Skills</h2>
@@ -27,5 +25,6 @@ Full-stack Web Development passionate.💻
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/wesleyajavon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyajv/) [![Website](https://img.shields.io/badge/Website-4285F4?logo=internet-explorer&logoColor=white)](https://wesleyajavon.com)
 
+![image](https://github.com/wesleyajavon/wesleyajavon/blob/main/I%20let%20the%20code%20guide%20me%20into%20the%20deepest%20corners%20of%20creativity..png?raw=true)
 
 </div>
