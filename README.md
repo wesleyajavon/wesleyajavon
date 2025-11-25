@@ -1,6 +1,9 @@
-<h1 align="center">✨ Wesley Ajavon ✨</h1>
+<h1 align="center">👨🏾‍💻 Hi I'm Wesley ! </h1>
 <p align="center">
-  Belgian student currently living in the US. 🇧🇪🇺🇸 Full-stack Web Development passionate.💻
+  Belgian student currently living in the US. 🇧🇪🇺🇸
+</p>
+<p align="center">
+  Full-stack Web Development passionate.💻
 </p>
 
 <h2 align="center">Fun Fact</h2>
