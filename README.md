@@ -1,6 +1,6 @@
 <h1 align="center">👨🏾‍💻 Hi I'm Wesley ! </h1>
 <p align="center">
-  Belgian student currently living in the US. 🇧🇪🇺🇸
+  Belgian graduate student based in the US. 🇧🇪🇺🇸
 </p>
 <p align="center">
   Full-stack Web Development passionate.💻
