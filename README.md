@@ -1,33 +1,51 @@
-<h1 align="center">👨🏾‍💻 Hi I'm Wesley ! </h1>
+<h1 align="center">👨🏾‍💻 Hi, I'm Wesley!</h1>
 <p align="center">
-  Belgian graduate student based in the US. 🇧🇪🇺🇸
-</p>
-<p align="center">
-  Full-stack Web Development passionate.💻
+Full-Stack Engineer | React ⚡ Next.js | Passionate about scalable, creative web apps
 </p>
 
-<h2 align="center">Fun Fact</h2>
 <p align="center">
-  Let's have a chat? On peut continuer en français.. O Continuaremos en español si lo prefieres. ✌🏾
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyajavon&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">🚀 Skills</h2>
-<div align="center">
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDb](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-</div>
+### 🍏 Apple Music Analytics
+[Live Demo](https://apple-music-analytics.vercel.app) | [GitHub](https://github.com/wesleyajavon/apple-music-analytics)  
+Interactive dashboard analyzing personal music listening habits.  
+Visualizes trends over time: play counts, favorite artists/genres, and patterns.  
+Built with: ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)  
 
-<h2 align="center">🖥️ Languages</h2>
-<div align="center">
+---
 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</div>
+### 🎵 l.outsider
+[Live Demo](https://loutsider.vercel.app) | [GitHub](https://github.com/wesleyajavon/loutsider)  
+Beat marketplace showcasing professional instrumentals.  
+Users can browse beats, explore categories, and contact creators.  
+Built with: ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)  
+
+---
+
+### 📚 YouCode – Next.js Learning Platform
+[Live Demo](https://youcode-nextjs.vercel.app) | [GitHub](https://github.com/wesleyajavon/youcode-nextjs)  
+Online learning platform with AI-powered lesson generation and Markdown-based content creation.  
+Sleek, responsive UI for teaching and learning courses efficiently.  
+Built with: ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) 
+
+</p>
+
+
 
 <h2 align="center">🌐 Let's Connect</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-NYC%20Tech-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=spin" alt="Open to work" />
+</p>
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/wesleyajavon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyajv/) [![Website](https://img.shields.io/badge/Website-4285F4?logo=internet-explorer&logoColor=white)](https://wesleyajavon.com)
 
-![image](https://github.com/wesleyajavon/wesleyajavon/blob/main/I%20let%20the%20code%20guide%20me%20into%20the%20deepest%20corners%20of%20creativity..png?raw=true)
+<p align="center">
+  <img src="./Mr robot.jpeg" alt="Creative Tech Banner" width="600"/>
+</p>
 
 </div>
